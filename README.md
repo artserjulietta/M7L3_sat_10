@@ -26,4 +26,13 @@ pytest
 
 ## Автор
 
-Kodland, Михаил
+
+Kodland
+
+Михаил
+
+Kirill
+
+Amir
+
+Julietta
