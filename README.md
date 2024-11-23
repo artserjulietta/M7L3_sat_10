@@ -29,6 +29,8 @@ pytest
 
 Kodland
 
+Kiril
+
 Михаил
 
 Kirill
@@ -36,3 +38,5 @@ Kirill
 Amir
 
 Julietta
+
+main
