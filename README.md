@@ -26,6 +26,17 @@ pytest
 
 ## Автор
 
+
 Kodland
 
+
 Daniil
+
+Михаил
+
+Kirill
+
+Amir
+
+Julietta
+
