@@ -26,11 +26,15 @@ pytest
 
 ## Автор
 
-
 Kodland
 
 
+
 Daniil
+
+bogdan
+
+Kiril
 
 Михаил
 
