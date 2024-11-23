@@ -26,6 +26,17 @@ pytest
 
 ## Автор
 
+
 Kodland
 
-Kirillllgit add README.md
+Kiril
+
+Михаил
+
+Kirill
+
+Amir
+
+Julietta
+
+main
