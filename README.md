@@ -27,4 +27,5 @@ pytest
 ## Автор
 
 Kodland
-Alexsabdr
+
+Alexsandr
