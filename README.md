@@ -26,8 +26,9 @@ pytest
 
 ## Автор
 
-
 Kodland
+
+bogdan
 
 Kiril
 
@@ -38,5 +39,3 @@ Kirill
 Amir
 
 Julietta
-
-main
