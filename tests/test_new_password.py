@@ -7,10 +7,10 @@ def test_password_characters():
     password = generate_password(100)  # Генерируем длинный пароль для более надежной проверки
     for char in password:
         assert char in valid_characters
-# def test_password_lenght():
-#     valid_lenght = 12
-#     password = generate_password(valid_lenght)
-#     assert password(len) != valid_lenght
+def test_password_lenght():
+     valid_lenght = 12
+     password = generate_password(valid_lenght)
+     assert password(len(password)) == valid_lenght 
 
 """
 Допиши еще один тест из предложенных. Или придумай свой.
