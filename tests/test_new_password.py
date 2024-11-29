@@ -7,10 +7,6 @@ def test_password_characters():
     password = generate_password(100)  #
     for char in password:
         assert char in valid_characters
-def test_password_lenght():
-     valid_lenght = 12
-     password = generate_password(valid_lenght)
-     assert password(len(password)) == valid_lenght 
 
 def test_password_length():
     """Тест, что длина пароля соответствует заданной"""
